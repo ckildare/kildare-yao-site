@@ -1,0 +1,4 @@
+{
+    “terminal.integrated.shellArgs.windows”: [“/K”, “C:\\Users\\ckild\\miniconda3\\Scripts\\activate.bat"]
+    "python.pythonPath": "C:/Users/ckild/miniconda3/envs/${env:base}/python"
+}
